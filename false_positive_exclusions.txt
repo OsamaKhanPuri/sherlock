@@ -8,7 +8,6 @@ Cults3D
 Discord.bio
 Envato Forum
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -23,6 +22,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
@@ -31,7 +31,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
