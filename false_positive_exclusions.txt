@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BitBucket
 Codolio
 Discord.bio
 Envato Forum
@@ -12,6 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -19,7 +19,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -37,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
